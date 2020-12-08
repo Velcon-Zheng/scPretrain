@@ -2,7 +2,7 @@ torch
 tqdm
 sklearn
 numpy
-pickle
+pickle-mixin
 h5py
 scipy
 faiss
